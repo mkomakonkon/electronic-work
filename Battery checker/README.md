@@ -11,4 +11,6 @@ OLEDの端子は細ピンヘッダーに変更しています。
   
 配線はこんな感じです。マイコン部の高さを抑えるためNanoを直付けしたので  
 片面配線です｡  
+左側の配線は1MΩのpull-downｘ２です。電池未実装の時Nanoの入力が安定しないので付けています。  
+(部品面の写真だとどちらも隠れて見えないですね…)  
 ![](https://github.com/mkomakonkon/electronic-work/blob/master/Battery%20checker/photos/Wiring%20side%20BCHK.JPG)  
