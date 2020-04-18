@@ -5,6 +5,8 @@
 OLEDの端子は細ピンヘッダーに変更しています。  
 デバッグ時はOLEDでリセットボタンを押していましたが、割れるといけないので  
 カプトンテープに基板の切れ端を接着し､OLEDを支えるようにしています｡  
+リセットスイッチをつけるほどでもないと思いましたが、配線エリアが余っていたので  
+付けました。(ケーブルを抜き差しすれば済むので必須ではありません｡)  
 ![](https://github.com/mkomakonkon/electronic-work/blob/master/Battery%20checker/photos/Parts%20side%20BCHK.JPG)  
   
 配線はこんな感じです。マイコン部の高さを抑えるためNanoを直付けしたので  
